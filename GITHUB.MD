@@ -82,7 +82,7 @@ Step-by-step explanation
 Commands at a glance
 =====================
 ![My Logo](cmds3.png)
-![Figure 2. Git workflow showing the workspace, staging area, local repository, and central repository.](concepts/cmds3.png)
+![Commands](concepts/cmds3.png)
 
 
 Useful reminders

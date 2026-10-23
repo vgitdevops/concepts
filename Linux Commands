@@ -1,0 +1,8 @@
+Kube Commands:
+===========
+kubectl get pods -n kube-system
+kubectl get nodes -o wide
+kubectl describe pod <pod-name>
+kubectl logs <pod-name> -c <container-name> --tail=50 -f
+kubectl exec -it <pod-name> -- /bin/bash
+kubectl port-forward svc/my-service 8080:80
